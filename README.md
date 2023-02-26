@@ -5,7 +5,7 @@ I am a final year student at the University of Plymouth, studying Computer Scien
 ### 🔭 Current Projects
 I am currently working on several projects related to Cyber Security and Web development. These projects include:
 
-- A malware detection tool using machine learning techniques.
+- A malware detection tool for Windows portable executable files using machine learning techniques.
 - A web application for secure file sharing using cryptographic algorithms.
 - A website for a farm business to shop online and manage sales using a full-stack web development approach.
 ### 🌱 Learning
